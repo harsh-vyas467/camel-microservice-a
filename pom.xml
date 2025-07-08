@@ -48,13 +48,18 @@
 		</dependency>
 		<dependency>
 			<groupId>org.apache.camel.springboot</groupId>
+			<artifactId>camel-activemq-starter</artifactId>
+			<version>${camel.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.camel.springboot</groupId>
 			<artifactId>camel-log-starter</artifactId>
-			<version>4.12.0</version>
+			<version>${camel.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-log</artifactId>
-			<version>4.12.0</version>
+			<version>${camel.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
