@@ -25,3 +25,9 @@ To run it in the background (detached mode), use:
 docker-compose up -d
 This will start Kafka, Zookeeper, and any additional services defined in the file.
 
+
+---------------------------------------------------------------------
+
+refer this to know more about simple language :
+https://camel.apache.org/components/4.10.x/languages/simple-language.html
+

@@ -3,7 +3,7 @@ package com.microservices.camel_microservice_a.routes.e;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class RouteApiConsumerRouter extends RouteBuilder {
     @Override
     public void configure() throws Exception {

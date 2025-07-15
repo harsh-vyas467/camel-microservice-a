@@ -3,5 +3,5 @@
    <id>1001</id>
    <from>EUR</from>
    <to>INR</to>
-   <conversionMultiple>80</conversionMultiple>
+   <conversionMultiple>50</conversionMultiple>
 </root>
